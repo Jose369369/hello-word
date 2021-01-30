@@ -1,2 +1,3 @@
 # hello-word
-Clash for android
+Choque para Android
+Hola nase 
